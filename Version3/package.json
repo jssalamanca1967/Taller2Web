@@ -1,0 +1,8 @@
+{
+    "name": "Version3",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "js.salamanca1967",
+    "contributors": [],
+    "dependencies": {}
+}
